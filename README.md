@@ -21,14 +21,14 @@ What is an M3U8 File? It is plain text file like a file list, and each file's si
 The real media files is saved in one folder(may be hidden), usually in the folder where .m3u8 file is, like this:  
   
 |----.ac82a07ac0f038d338966a382f0e80bd  
-|     |-0.ts  
-|     |-1.ts  
-|     |-2.ts  
-|     |-3.ts  
-|     |-4.ts  
-|     |...  
-|     |-1861.ts  
-|     |-1862.ts  
+|&ensp;|-0.ts  
+|&ensp;|-1.ts  
+|&ensp;|-2.ts  
+|&ensp;|-3.ts  
+|&ensp;|-4.ts  
+|&ensp;|...  
+|&ensp;|-1861.ts  
+|&ensp;|-1862.ts  
 !----Avengers: Endgame.m3u8  
   
   
