@@ -3,16 +3,16 @@ a script convert video type of M3U8 to MP4
 
 What is an M3U8 File? It is plain text file like a file list, and each file's size is very small, like hundreds of KBs. like this:
 
-  #EXTM3U 
-  #EXT-X-TARGETDURATION:8 
+  #EXTM3U  
+  #EXT-X-TARGETDURATION:8  
   #EXTINF:4.170000,
-  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/0.ts 
+  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/0.ts  
   #EXTINF:4.336800,
-  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/1.ts 
+  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/1.ts  
   #EXTINF:3.961500,
-  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/2.ts 
+  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/2.ts  
   #EXTINF:4.170000,
-  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/3.ts 
+  file:///storage/emulated/0/QQBrowser/video/.ac82a07ac0f038d338966a382f0e80bd/3.ts  
   .....
   .....
   .....
