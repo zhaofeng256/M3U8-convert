@@ -20,16 +20,16 @@ What is an M3U8 File? It is plain text file like a file list, and each file's si
   
 The real media files is saved in one folder(may be hidden), usually in the folder where .m3u8 file is, like this:  
   
-|-.ac82a07ac0f038d338966a382f0e80bd  
-|   |-0.ts  
-|   |-1.ts  
-|   |-2.ts  
-|   |-3.ts  
-|   |-4.ts  
-|   |...  
-|   |-1861.ts  
-|   |-1862.ts  
-!-Avengers: Endgame.m3u8  
+|----.ac82a07ac0f038d338966a382f0e80bd  
+|     |-0.ts  
+|     |-1.ts  
+|     |-2.ts  
+|     |-3.ts  
+|     |-4.ts  
+|     |...  
+|     |-1861.ts  
+|     |-1862.ts  
+!----Avengers: Endgame.m3u8  
   
   
 Some media players do not support m3u8 files, they had to be converted. I found the movies download by my phone browser is m3u8 type, but when I copy the .m3u8 and the video folder to windows pc, it can not be played directly, so I write this power-shell script and it runs well on my window 10 pc with power-shell version 5.1.  
