@@ -43,12 +43,12 @@ HOW TO USE:
 </h2>
 <pre>
  1. put the script to  the same fold with .m3u8 file
- 2. open windows power-shell as administrator
+ 2. open windows power-shell as <strong>administrator</strong>
  3. check the executation police of power-shell by input command 'Get-ExecutionPolicy'
- 4. if it is not RemoteSigned, power-shell script cann't run. Input 'Set-ExecutionPolicy RemoteSigned' and
-    input 'A'
+ 4. if it is not RemoteSigned, power-shell script cann't run. Input <strong>'Set-ExecutionPolicy RemoteSigned'</strong>
+    and input 'A'
  5. go to the .m3u8 folder. For example, input 'cd D:/videos', change the path if yours is different
- 6. now wen can run the script like './m3u8_mp4.ps1  name_of_video.m3u8', change the m3u8 file name to your own
+ 6. now wen can run the script like '<strong>./m3u8_mp4.ps1</strong>  name_of_video.m3u8', change the m3u8 file name to your own
  7. when the file is convert successfully, you will see 'sucess!', and the mp4 file is saved in the same
     folder with .m3u8
 </pre>
