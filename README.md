@@ -48,7 +48,7 @@ HOW TO USE:
  4. if it is not RemoteSigned, power-shell script cann't run. Input <strong>'Set-ExecutionPolicy RemoteSigned'</strong>
     and input 'A'
  5. go to the .m3u8 folder. For example, input 'cd D:/videos', change the path if yours is different
- 6. now wen can run the script like <strong> './m3u8_mp4.ps1 name_of_video.m3u8' </strong> , change the m3u8 file name to your own
+ 6. now wen can run the script like <strong>'./m3u8_mp4.ps1 name_of_video.m3u8'</strong>, change the m3u8 file name to your own
  7. when the file is convert successfully, you will see 'sucess!', and the mp4 file is saved in the same
     folder with .m3u8
 </pre>
