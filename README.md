@@ -43,4 +43,4 @@ HOW TO USE:
  6.now wen can run the script by ./m3u8_mp4.ps1
  7.when the file is convert successfully, you will see 'sucess!', and the mp4 file is saved in the same folder with .m3u8
  
- 
+
