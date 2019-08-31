@@ -44,4 +44,3 @@ HOW TO USE:
  7.when the file is convert successfully, you will see 'sucess!', and the mp4 file is saved in the same folder with .m3u8
  
  
- 
