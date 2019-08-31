@@ -1,7 +1,8 @@
 # M3U8-convert
 a script convert video type of M3U8 to MP4 
 
-What is an M3U8 File? It is plain text file like a file list, and each file's size is very small, like hundreds of KBs. like this:
+What is an M3U8 File? It is plain text file like a file list, and each file's size is very small, like hundreds of KBs. 
+<h4>like this:</h4>
   
 <pre>
   #EXTM3U
@@ -20,7 +21,7 @@ What is an M3U8 File? It is plain text file like a file list, and each file's si
 </pre>
   
   
-The real media files is saved in one folder(may be hidden), usually in the folder where .m3u8 file is, like this:  
+The real media files is saved in one folder(may be hidden), usually in the folder where .m3u8 file is, <h4>like this:</h4>  
   
 <pre>
 |----.ac82a07ac0f038d338966a382f0e80bd  
@@ -37,7 +38,9 @@ The real media files is saved in one folder(may be hidden), usually in the folde
   
 Some media players do not support m3u8 files, they had to be converted. I found the movies download by my phone browser is m3u8 type, but when I copy the .m3u8 and the video folder to windows pc, it can not be played directly, so I write this power-shell script and it runs well on my window 10 pc with power-shell version 5.1.  
   
+<h2>
 HOW TO USE:
+</h2>
 <pre>
  1. put the script to  the same fold with .m3u8 file
  2. open windows power-shell as administrator
